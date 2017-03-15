@@ -1,3 +1,7 @@
+
+Это копия
+[gs-accessing-mongodb-data-rest](https://github.com/spring-guides/gs-accessing-mongodb-data-rest.git)
+
 ---
 tags: [spring-data, mongodb, rest, hateoas]
 projects: [spring-data-rest]
